@@ -1,0 +1,41 @@
+.main{
+    padding: 10px 150px 10px 150px;
+    
+}
+#heading{
+    text-align: center;
+    background-color: lightblue;
+    color: blueviolet;
+    font-weight: bold;
+}
+.B1{
+    display:flex;
+    background-color: aqua;
+    justify-content:space-between;
+    width:100%; 
+}
+#inp{
+    margin: 5px;
+}
+#but{
+    margin: 5px;
+}
+
+.B2{
+    background-color: lightsalmon;
+    justify-content: center;
+    width:100%;
+}
+#t{
+    padding:5px;
+    display:flex;
+    justify-content: space-between;
+}
+#w{
+    padding: 5px;
+    width: 5%;
+}
+#c{
+    padding: 5px;
+    width: 5%;
+}
